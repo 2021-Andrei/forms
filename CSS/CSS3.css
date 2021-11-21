@@ -1,0 +1,24 @@
+*{
+    padding-bottom: 0;
+    margin-bottom: 0;
+}
+.application{
+    margin: auto;
+    max-width: 1200px;
+}
+
+
+.submit{
+    color: #3589E8;
+    background-color: #FFFFFF;
+    font-size: 33px;
+    line-height: 39px;
+    margin-bottom: 14px;
+
+}
+.coloborate{
+    color: black;
+    font-size: 17px;
+    line-height: 20px;
+    margin-bottom: 46px;
+}
