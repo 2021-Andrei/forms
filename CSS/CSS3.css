@@ -14,6 +14,7 @@
     font-size: 33px;
     line-height: 39px;
     margin-bottom: 14px;
+    border:none
 
 }
 .coloborate{
@@ -21,4 +22,8 @@
     font-size: 17px;
     line-height: 20px;
     margin-bottom: 46px;
+}
+
+.background{
+    background-color: #F3F3F3;
 }
